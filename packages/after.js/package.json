@@ -77,7 +77,7 @@
     "eslint-plugin-react": "^7.19.0",
     "express": "^4.17.1",
     "jest": "^25.4.0",
-    "razzle": "^3.1.0",
+    "razzle": "git+https://github.com/karlnorling/razzle#update-typescript",
     "razzle-dev-utils": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
